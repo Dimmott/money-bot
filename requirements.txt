@@ -2,3 +2,6 @@ aiogram
 aiosqlite
 pandas
 numpy
+APScheduler
+matplotlib
+python-dotenv
